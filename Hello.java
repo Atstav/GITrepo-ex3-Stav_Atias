@@ -1,7 +1,7 @@
-public class Hello 
-{
-    public static void main(String[] args) 
-	{
-        System.out.println("Hello!");
+public class Hello{
+	public static void main(String[] args) {
+		for (int i=1;i<=10; i++) {
+			System.out.println("Let's build code"+i);
+		}
 	}
 }

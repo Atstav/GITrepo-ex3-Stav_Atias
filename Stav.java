@@ -4,7 +4,7 @@ public class Stav
 	{
         for(int i = 0; i < 5; i++) 
 		{
-            System.out.println("Stav");
+            System.out.println("The Job was completed successfully.");
 		}
 	}
 }
